@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GalileiFeed</string>
+    <string name="btn_text">Get website</string>
+    <string name="tv_text">Result ...</string>
+</resources>
